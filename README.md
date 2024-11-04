@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eshgin Hasanov</h1>
-<h3 align="center">A passionate back-end developer from Azerbaijan</h3>
+<h3 align="center">A Computer Science PhD student and Back-end developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on [AzeriGas project](https://github.com/Eshgin1337/AzeriGas)
 
