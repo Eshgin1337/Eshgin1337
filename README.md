@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eshgin Hasanov</h1>
 <h3 align="center">A Computer Science PhD student and Back-end developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on [AzeriGas project](https://github.com/Eshgin1337/AzeriGas)
-
-- 🌱 I’m currently learning **DSA, back-end web development**
+- 🔭 I’m currently working on a research project to combine Software Testing and LLM, will be available soon
 
 - 👨‍💻 All of my projects are available at [https://github.com/Eshgin1337/](https://github.com/Eshgin1337/)
 
-- 📝 I regularly write articles on (Which is the website I have developed from scratch): [https://mydata.az](https://mydata.az)
-
-- 💬 Ask me about **NodeJS, EJS, React**
+- 💬 Ask me about **Research, Software Testing**
 
 - 📫 How to reach me **eshgin.hasanov.1337@gmail.com**
 
